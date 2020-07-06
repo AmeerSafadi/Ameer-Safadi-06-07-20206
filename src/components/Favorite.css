@@ -1,0 +1,25 @@
+.div3{
+    box-sizing: content-box;
+    width: 150px;
+    height: 220px;
+    text-align: center;
+    position: relative;
+    padding-left:130px;
+    top:140px;
+    display: inline-block;
+}
+#button{
+    position: relative;
+    width: 150px;
+    height: 220px;
+    border: none;
+    outline: none;
+    text-align: center; 
+    font-size: 18px;
+}
+#removebutton{
+    position: relative;
+    top: 20px;
+    border: none;
+    outline: none;
+}

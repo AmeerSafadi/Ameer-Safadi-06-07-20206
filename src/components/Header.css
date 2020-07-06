@@ -1,0 +1,24 @@
+#Button{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    left: 1000px;
+    top:15px
+}
+#Buttons{
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    left: 1070px;
+    bottom: 20px;
+    outline: none;
+}
+.div{
+    width: 1200px;
+    height: 70px;
+    border-style: groove;
+    border-color: #0492C2;  
+    left: 130px; 
+    top: 50px;
+    position:absolute;
+}

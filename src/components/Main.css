@@ -1,0 +1,59 @@
+.div1{
+    width: 1200px;
+    height: 500px;
+    border-style: groove;
+    border-color: #0492C2;  
+    left: 130px; 
+    top: 200px;
+    position:absolute;
+}
+#search{
+    position: relative;
+    top: 75px;
+    left: 440px;
+    width: 430px;
+    height: 30px;
+    outline:none;
+}
+#addbutton{
+    position: relative;
+    top: 120px;
+    left: 1150px;
+    border: none;
+    outline: none;
+}
+#description{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left:450px;
+    top:110px;
+    color:#20639B;
+}
+#name{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left:150px;
+    bottom:80px;
+    color:#20639B;
+}
+#degree{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left:150px;
+    bottom:90px;
+    color:#20639B;
+}
+.div2{
+    box-sizing: content-box;
+    width: 150px;
+    height: 220px;
+    border: 4px solid #173F5F;  
+    text-align: center;
+    position: relative;
+    left:200px;
+    top:20px;
+    display: inline-block;  
+}
